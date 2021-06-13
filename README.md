@@ -13,8 +13,16 @@ bash install.sh
 ```
 
 **Start**
+```
 import scolor
 
 a = scolor.color()
 
 print(a.green + "Hello World")
+```
+
+### [Mr.nope](https://github.com/mrprogrammer2938) Account...
+
+[Instagram](https://instagram.com/programmer2938)
+
+[Pinterest](https://www.pinterest.com/mrprogrammer2938)
