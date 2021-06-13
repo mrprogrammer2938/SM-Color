@@ -27,7 +27,6 @@ print(a.green + "Hello World")
 - white
 - blue
 - darkblue
-- line
 
 
 ### [Mr.nope](https://github.com/mrprogrammer2938) Account...
