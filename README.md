@@ -21,6 +21,15 @@ a = scolor.color()
 print(a.green + "Hello World")
 ```
 
+#### Color-List:
+- red
+- green
+- white
+- blue
+- darkblue
+- line
+
+
 ### [Mr.nope](https://github.com/mrprogrammer2938) Account...
 
 [Instagram](https://instagram.com/programmer2938)
